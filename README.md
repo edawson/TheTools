@@ -31,23 +31,53 @@ available tools into several categories, primarily by their intended purpose or 
 ### Variation Graphs
 
 ## DNA sequence graph representations
+
 ### HiSat2
+
 ### vg, odgi, and the vgteam
+
 ### Seven Bridges Genomics
+ 
 ### Bifrost graphs
+
 ### minigraph
+
 ## Graph construction algorithms
+
 ### vg construct
+
 ### seqwish
+
 ### svaha2
+
 ## Graph-based genotypers
+
+### paragraph
+
+### vg call / recall
+
+### BayesTyper
+
+### GraphTyper
+
 ## Graph visualization
+
 ### Bandage
+
+### gephi
+
+### CytoScape
+
 ## RNA Analysis
 
-## Tools for improving graph representations (FORGe)
+## Tools for informing graph construction
 
-## Heng Li
+### Forge
 
-## Durbin
+## Tools for manipulating graph representations
 
+### pyGFA
+
+### rGFA
+
+### GFAkluge
